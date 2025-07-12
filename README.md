@@ -482,12 +482,11 @@ Le flag décodé `L3AK{you_are_not_gonna_guess_me}` peut être vérifié en :
 - `babyrev` - Binaire original du challenge
 - `quick_solve.py` - Script de solution automatisée
 - `remap_table.bin` - Table de remapping extraite
-- `gdb_commands.txt` - Commandes GDB étape par étape
-- `writeup.md` - Ce compte-rendu
+- `README.md` - Ce compte-rendu
 
 ---
 
-**Temps de Résolution**: ~2-3 minutes avec l'approche automatisée
+
 **Flag**: `L3AK{you_are_not_gonna_guess_me}` 
 
 ## Merci pour votre attention et j'espère que vous avez aimé ma solution.
