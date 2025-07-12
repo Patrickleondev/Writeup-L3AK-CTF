@@ -104,7 +104,7 @@ data:0000000000004010                 align 20h
 
 ## Ma Stratégie de Solution
 
-Après avoir solve le chall j'ai pensé tout de suite à d'autres méthodes, grace a un script que j'ai créer...
+Après avoir résolu le chall j'ai pensé tout de suite à d'autre méthodes, grace à un script que j'ai crée...
 
 ### Méthode 1 : Analyse Dynamique avec GDB (celle que j'ai utilisé)
 
